@@ -1,0 +1,1 @@
+This app to check String if there return True or return False.
